@@ -1,0 +1,12 @@
+ .content{
+     background-color:orange;
+     width: 100vw;
+ }
+
+ .parent{
+     display: flex;
+     justify-content: space-between;
+     width: 25%;
+     font-size: 24px;
+
+ }

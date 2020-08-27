@@ -1,0 +1,25 @@
+body{
+    background-color: #dddddd;
+    min-height: 100%;
+  
+}
+
+
+
+
+.parent{
+    display: flex;
+  
+}
+.container{
+    
+    margin:0 auto
+}
+
+
+
+
+
+
+
+
